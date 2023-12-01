@@ -1,4 +1,4 @@
-# The Gallery
+# b Gallery
 
 ![app preview](./public/assets/Images/The-Gallery-Preview.jpg)
 
